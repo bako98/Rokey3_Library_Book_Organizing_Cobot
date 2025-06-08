@@ -102,8 +102,4 @@ Gazebo: https://gazebosim.org/
 DoosanBootcamInt1: https://github.com/ROKEY-SPARK/DoosanBootcamInt1
 
 
-# Cobotics Book Organizing Bot
 
-시각 정보를 바탕으로 책을 정리하고 시각화하는 ROS2 기반 코보틱스 프로젝트입니다.
-
-## 🗂️ 프로젝트 구조
