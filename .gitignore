@@ -1,3 +1,32 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Flask server files (optional)
+*.db
+.env
+
+# Colcon install logs
+colcon_install_logs/
+
+# VSCode devcontainer
+.devcontainer/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
