@@ -74,6 +74,7 @@ sudo apt-get install -y \
 [DoosanBootcamInt1 GitHub](https://github.com/ROKEY-SPARK/DoosanBootcamInt1)
 
 ```
+cd cobotics_ws_/
 cd src/
 git clone https://github.com/ROKEY-SPARK/DoosanBootcamInt1.git
 ```
