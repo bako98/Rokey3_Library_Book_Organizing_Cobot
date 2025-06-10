@@ -173,7 +173,7 @@ python3 app_book.py
 ## 예시영상
 
 [![Video Label](http://img.https://youtube/DNa9JIxyISo/0.jpg)](https://youtu.be/DNa9JIxyISo)
-
+[![Video Label](http://img.youtube.com/vi/DNa9JIxyISo/0.jpg)](https://youtu.be/DNa9JIxyISo)
 
 ---
 
